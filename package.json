@@ -1,0 +1,25 @@
+{
+  "name": "heroescapehighscoreapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuagalvez11/HeroEscapeHighScoreAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuagalvez11/HeroEscapeHighScoreAPI/issues"
+  },
+  "homepage": "https://github.com/joshuagalvez11/HeroEscapeHighScoreAPI#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.10",
+    "morgan": "^1.10.0"
+  }
+}
